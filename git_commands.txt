@@ -40,3 +40,5 @@ python3 testing.py
  2045  git remote set-url origin 
  2046  git remote -v
 "lets check my work"
+
+now i changed my file in my github not in local 
